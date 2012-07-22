@@ -1,7 +1,7 @@
 ---
 title: File Types
 layout: default
-previous: home_directory_and_hidden_files
+previous: home_dir_and_hidden_files
 next: different_users
 ---
 

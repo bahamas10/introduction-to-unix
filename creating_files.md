@@ -2,7 +2,7 @@
 title: Creating Files
 layout: default
 previous: navigation
-next: home_directory_and_hidden_files
+next: home_dir_and_hidden_files
 ---
 
 
