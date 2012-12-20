@@ -2,6 +2,7 @@
 title: Avoiding Common Mistakes
 layout: default
 previous: loops
+next: interactive_games
 ---
 
 This section is in here for 2 reasons.  It will save you a LOT of trouble,
