@@ -14,6 +14,7 @@ previous: interactive_games
         var num = Math.floor(Math.random() * 4095)
         var oct = pad(num.toString(8));
         field.innerHTML = Perms.toString(oct);
+        result.innerHTML = '';
     }
 
     function click() {
